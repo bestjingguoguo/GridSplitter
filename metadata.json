@@ -1,0 +1,5 @@
+{
+  "name": "GridSplitter 靖哥哥AI版",
+  "description": "A powerful tool to split any image into a grid (e.g., 3x3 for social media) or custom puzzle pieces. Includes batch downloading and high-quality processing.",
+  "requestFramePermissions": []
+}
